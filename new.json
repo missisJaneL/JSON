@@ -1,1 +1,4 @@
-{"name":"Jane","age":36, "quantity_pets": 2, "salary": 2000}
+{   "name":"Jane",
+    "age":36, 
+    "quantity_pets": 2, 
+    "salary": 2000}
